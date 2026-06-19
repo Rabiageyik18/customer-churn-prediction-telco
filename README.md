@@ -92,15 +92,13 @@ This analysis helps understand model behavior and improvement areas.
 
 ---
 
-# Live Demo
+## Live Demo
 
 Try the interactive application:
 
 https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
 
-<img src="app_screenshot.png" width="700">
-
----
+<img src="images/app_screenshot.png" width="700">
 
 # Project Screenshots
 
