@@ -86,17 +86,37 @@ Model mistakes were analyzed to understand prediction behavior.
 **False Positive (False Alarm):**
 - Customers predicted as churning but actually stayed
 
-This analysis helps understand where the model can be improved.
+This analysis helps understand model behavior and improvement areas.
 
 ---
 
 ## Live Demo
 
-![App Screenshot](images/app_screenshot.png)
-
 Try the interactive application:
 
 https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
+
+### Application Screenshot
+
+![App Screenshot](app_screenshot.png)
+
+---
+
+## Project Screenshots
+
+![Demo 1](streamlit_demo1.png)
+
+![Demo 2](streamlit_demo2.png)
+
+![Demo 3](streamlit_demo3.png)
+
+![Demo 4](streamlit_demo4.png)
+
+---
+
+## Classification Report
+
+![Classification Report](images/Classification_Report.png)
 
 ---
 
