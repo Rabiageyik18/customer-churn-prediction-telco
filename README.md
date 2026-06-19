@@ -101,13 +101,13 @@ https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
 
 # Project Screenshots
 
-<img src="streamlit_demo1.png" width="700">
+<img src="./images/streamlit_demo1.png" width="700">
 
-<img src="streamlit_demo2.png" width="700">
+<img src="./images/streamlit_demo2.png" width="700">
 
-<img src="streamlit_demo3.png" width="700">
+<img src="./images/streamlit_demo3.png" width="700">
 
-<img src="streamlit_demo4.png" width="700">
+<img src="./images/streamlit_demo4.png" width="700">
 
 ---
 
