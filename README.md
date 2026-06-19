@@ -98,7 +98,6 @@ Try the interactive application:
 
 https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
 
-<img src="images/app_screenshot.png" width="700">
 
 # Project Screenshots
 
