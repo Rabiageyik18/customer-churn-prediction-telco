@@ -12,6 +12,8 @@ The goal of this project is to identify customers who are likely to leave and he
 - 21 features  
 - Demographic, account, and service-related information
 
+---
+
 ## Methodology
 
 ### Exploratory Data Analysis (EDA)
@@ -49,7 +51,7 @@ Final model:
 
 ---
 
-## Final Model Performance
+# Final Model Performance
 
 **Stacking Ensemble Results (Threshold = 0.59)**
 
@@ -64,7 +66,7 @@ The model prioritizes churn recall because missing a customer who is likely to l
 
 ---
 
-## Baseline Model Comparison
+# Baseline Model Comparison
 
 | Model | Accuracy | Recall | Macro F1 |
 |---|---:|---:|---:|
@@ -76,7 +78,7 @@ The model prioritizes churn recall because missing a customer who is likely to l
 
 ---
 
-## Error Analysis
+# Error Analysis
 
 Model mistakes were analyzed to understand prediction behavior.
 
@@ -90,43 +92,41 @@ This analysis helps understand model behavior and improvement areas.
 
 ---
 
-## Live Demo
+# Live Demo
 
 Try the interactive application:
 
 https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
 
-### Application Screenshot
-
-![App Screenshot](app_screenshot.png)
+<img src="app_screenshot.png" width="700">
 
 ---
 
-## Project Screenshots
+# Project Screenshots
 
-![Demo 1](streamlit_demo1.png)
+<img src="streamlit_demo1.png" width="700">
 
-![Demo 2](streamlit_demo2.png)
+<img src="streamlit_demo2.png" width="700">
 
-![Demo 3](streamlit_demo3.png)
+<img src="streamlit_demo3.png" width="700">
 
-![Demo 4](streamlit_demo4.png)
-
----
-
-## Classification Report
-
-![Classification Report](images/Classification_Report.png)
+<img src="streamlit_demo4.png" width="700">
 
 ---
 
-## Tech Stack
+# Classification Report
+
+<img src="images/Classification_Report.png" width="700">
+
+---
+
+# Tech Stack
 
 Python · pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Optuna · SHAP · Streamlit
 
 ---
 
-## Repository Contents
+# Repository Contents
 
 | File | Description |
 |---|---|
@@ -136,7 +136,7 @@ Python · pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Optuna ·
 
 ---
 
-## Running the Demo
+# Running the Demo
 
 ```bash
 pip install streamlit pandas numpy scikit-learn xgboost lightgbm catboost
