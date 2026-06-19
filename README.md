@@ -48,7 +48,10 @@ Python · pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Optuna ·
 pip install streamlit pandas numpy scikit-learn xgboost lightgbm catboost
 streamlit run demo_app.py
 ```
+## Live Demo
 
+Try the app here:
+https://customer-churn-prediction-telco-8sbzcddyv5txzj4u5uyftx.streamlit.app/
 ## Authors
 
 - Rabia Geyik
