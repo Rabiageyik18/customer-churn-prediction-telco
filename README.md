@@ -48,6 +48,11 @@ Python · pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Optuna ·
 pip install streamlit pandas numpy scikit-learn xgboost lightgbm catboost
 streamlit run demo_app.py
 ```
+
+## Live Demo
+
+![App Screenshot](images/app_screenshot.png)
+
 ## Live Demo
 
 Try the app here:
